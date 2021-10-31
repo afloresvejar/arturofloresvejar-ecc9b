@@ -78,8 +78,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
-        url: blog
+      - url: blog
         style: button
 seo:
   title: Stackbit Exto Theme
